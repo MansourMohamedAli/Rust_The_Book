@@ -1,0 +1,1 @@
+start microsoft-edge:https://doc.rust-lang.org/book/
